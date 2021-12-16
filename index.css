@@ -1,0 +1,38 @@
+body{
+  margin:0px;
+  background-color:white;
+}
+.head h1{
+  font-size:45px;
+  margin-left:31%;
+  margin-top:20%;
+  color:#1530ef;
+}
+.head img{
+  width:75%;
+  margin-left:10%;
+  margin-top:-20px;
+}
+.head input{
+  border: none;
+  border:solid;
+  border-color:black;
+  border-radius: 8px;
+  margin:1%;
+  margin-left:22%;
+  padding:8px;
+}
+#btn {
+  margin-left:40%;
+  color:#3734e7;
+  font-size:15px;
+  width:70px;
+}
+#usr {
+  width: 200px;  
+  height:18px;
+}
+#pass {
+  width:200px;
+  height:18px;
+}
