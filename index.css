@@ -31,8 +31,10 @@ body{
 #usr {
   width: 200px;  
   height:18px;
+  outline:none;
 }
 #pass {
   width:200px;
   height:18px;
+  outline:none;
 }
